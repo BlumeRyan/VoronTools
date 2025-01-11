@@ -88,7 +88,7 @@ Set things up to back up to GitHub with the URL above. This is great because you
 
     ![image](img/os/ssh1.png)
   
-    **NOTE**: If you get an error about ssh not wanting to connect, remove the offending line from the file shown in the error message. This is not someone hax0ring you, its just that the ssh key for the pi changed.
+    **NOTE**: If you get an error about ssh not wanting to connect, remove the offending line from the file shown in the error message. This is not someone hacking you, its just that the ssh key for the pi changed.
 
 10. Update all the software to current
   
